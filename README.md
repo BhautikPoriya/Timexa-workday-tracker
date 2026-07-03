@@ -10,7 +10,7 @@
 
 ---
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Ftimexa-workday-tracker.vercel.app%2F) Checkout Website here Timexa
+https://timexa-workday-tracker.vercel.app/
 
 ---
 
